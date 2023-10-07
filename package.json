@@ -9,7 +9,7 @@
   "scripts": {
     "watch": "webpack --config build/webpack.config.js --watch",
     "build": "webpack --config build/webpack.config.js",
-    "prepate": "npm run build",
+    "prepare": "npm run build",
     "build:report": "npm run build --report",
     "lint": "eslint ./src",
     "lint:fix": "eslint ./src --fix",
