@@ -1,7 +1,6 @@
 .DS_Store
 node_modules
 docs
-build
 demo
 
 # config files
@@ -9,7 +8,6 @@ demo
 .eslintr.js
 .gitignore
 .prettierrc
-tsconfig.json
 yarn.lock
 
 # local env files
